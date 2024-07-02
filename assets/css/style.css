@@ -184,6 +184,10 @@ h3 span {
 .about-content p {
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
 }
 
 .experience h2 {
