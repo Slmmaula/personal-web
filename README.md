@@ -52,6 +52,8 @@ Visit the following link to view the [Live Demo](https://slmmaula.vercel.app)
 * Experiences section highlighting my professional experiences and achievements, including a brief description, image, and links to full details
 * Portfolio section showcasing my projects, including a brief description, image, and link to the project's
 * Contact form with validation using SweetAlert and SMTP.js.
+* 404 Page
+* Download CV
 
 ### Project Logo
 
