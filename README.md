@@ -2,15 +2,15 @@
 
 This is my personal website, designed to showcase my portfolio and provide information about myself, my skills, and the projects I've worked on. The website is fully responsive for all devices, ensuring optimal viewing and interaction experience across a wide range of devices.
 
-## Screeshots Demo
+### Screeshots Demo
 
 ![Slmmaula - Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-## Live Demo
+### Live Demo
 
-visit the following link to view the [Live Demo](https://slmmaula.vercel.app)
+Visit the following link to view the [Live Demo](https://slmmaula.vercel.app)
 
-## Tech Stack
+### Tech Stack
 
 <details>
   <summary>Client</summary>
@@ -41,7 +41,7 @@ visit the following link to view the [Live Demo](https://slmmaula.vercel.app)
   </ul>
 </details>
 
-## Features
+### Features
 
 * Responsive design using HTML, CSS, and JavaScript.
 * Smooth scrolling using Scroll Reveal.
@@ -53,15 +53,15 @@ visit the following link to view the [Live Demo](https://slmmaula.vercel.app)
 * Portfolio section showcasing my projects, including a brief description, image, and link to the project's
 * Contact form with validation using SweetAlert and SMTP.js.
 
-## Project Logo
+### Project Logo
 
 ![Project Logo](./readme-images/project-logo.png)
 
-## Project Web Icon
+### Project Web Icon
 
 ![Project Web Icon](./readme-images/project-web-icon.png)
 
-## Color Reference
+### Color Reference
 
 | Color                      | Hex                                                              |
 | -------------------------- | ---------------------------------------------------------------- |
