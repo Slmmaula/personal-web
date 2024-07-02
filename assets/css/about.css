@@ -75,40 +75,31 @@ span {
     color: var(--main-color);
 }
 
-.post-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 60px;
-    background: var(--bg-color);
-}
 
-.post-container {
-    align-items: center;
-    margin: auto;
-    width: 80%;
-}
 .header-content {
     display: flex;
     flex-direction: column;
     margin-top: 2rem !important;
-    text-align: center;
-    align-items: center;
 }
+
 .back-home {
     color: #ccc;
     font-size: 1.5rem;
+    text-align: center;
 }
+
 .back-home:hover {
     color: var(--main-color);
 }
-.post-header .header-title {
+
+.header-title {
     font-size: 4.2rem;
     color: var(--text-color);
     text-align: center;
     margin-bottom: 2rem 0;
 }
-.post-header .header-img {
+
+.header-img {
     max-width: 100%;
     width: 100%;
     height: auto;
@@ -116,15 +107,19 @@ span {
     border-radius: 15px;
     margin: 15px auto;
 }
-.post-content {
+
+.post-container {
+    margin: auto;
     padding: 10px;
     max-width: 800px;
-    margin: -8rem auto;
+    text-align: left;
 }
+
 .sub-heading {
     font-size: 2.5rem;
     margin-top: 2rem;
 }
+
 .post-text {
     font-size: 1.8rem;
     line-height: 1.5;
@@ -133,6 +128,7 @@ span {
 
 .social-icons {
     display: flex;
+    flex-direction: row;
     justify-content: center;
     gap: 2rem;
     margin-top: 2rem;
