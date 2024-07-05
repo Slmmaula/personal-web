@@ -108,4 +108,4 @@ If you want to contact with me you can reach me at [Instagram](https://www.insta
 
 # License
 
-[MIT](LICENSE.txt)
+[MIT](LICENSE)
