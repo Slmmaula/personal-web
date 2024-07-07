@@ -1,3 +1,14 @@
+// Alert download button
+document.addEventListener('DOMContentLoaded', function() {
+    const downloadBtn = document.getElementById('download-btn');
+    
+    downloadBtn.addEventListener('click', function(event) {
+        event.preventDefault();
+        
+        alert('File not found');
+    });
+});
+
 // Toggle icon navbar
 let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
